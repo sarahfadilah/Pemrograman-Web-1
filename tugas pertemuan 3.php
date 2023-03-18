@@ -10,13 +10,13 @@
 
 <body>
     <?php
-    $jenis_kelamin = 'Laki-laki';
-    $nama_lengkap = 'Riyan';
-    $umur = 23;
-    $berat = 56;
-    $tinggi = 160;
+    $jenis_kelamin = 'Perempuan';
+    $nama_lengkap = 'Sarah';
+    $umur = 20;
+    $berat = 45;
+    $tinggi = 155;
     $menikah = false;
-    $nilai = 87;
+    $nilai = 88;
 
     if ($nilai >= 85 && $nilai <= 100) {
         $huruf = "A";
